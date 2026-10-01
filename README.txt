@@ -1,0 +1,1 @@
+These are console-style DEMO/SAMPLE screenshots based on the SmartStudent project workflow. They are not proof of a live MySQL run. For submission evidence, run the project with MySQL and capture your own screenshots/video after successful execution.

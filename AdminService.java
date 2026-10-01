@@ -1,0 +1,1 @@
+public class AdminService{private final StudentDAO dao;AdminService(StudentDAO d){dao=d;}public boolean login(String u,String p){return "admin".equals(u)&&"admin123".equals(p);}public StudentDAO dao(){return dao;}}

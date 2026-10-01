@@ -1,0 +1,7 @@
+1. Start MySQL.
+2. Run student.sql.
+3. Put mysql-connector-j-<version>.jar in this folder.
+4. Replace YOUR_MYSQL_PASSWORD.
+5. javac -cp ".;mysql-connector-j-<version>.jar" *.java
+6. java -cp ".;mysql-connector-j-<version>.jar" Main
+7. Login: admin / admin123

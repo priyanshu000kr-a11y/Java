@@ -1,0 +1,32 @@
+SMARTSTUDENT DEMO VIDEO SCRIPT
+
+1. Start:
+   Run Main using the JDBC Connector/J classpath.
+
+2. Login:
+   Username: admin
+   Password: admin123
+
+3. View all students:
+   Select option 2.
+
+4. Add:
+   Select option 1 and enter a valid student record.
+
+5. Search:
+   Use roll number, name, department, or marks search.
+
+6. Update:
+   Select option 3 and update the student by ID.
+
+7. Delete:
+   Select option 4 and delete a test record.
+
+8. Statistics:
+   Select option 9 to show total students, highest/lowest marks,
+   and department-wise student count.
+
+9. Exit:
+   Select option 0.
+
+Keep the video short and make sure the terminal output is readable.
